@@ -7,3 +7,5 @@ description = ""
 
 ## About
 Hello
+
+<img src="/favicon.png" height="400" />
