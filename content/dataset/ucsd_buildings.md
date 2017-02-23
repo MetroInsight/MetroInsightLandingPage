@@ -6,6 +6,7 @@ description: "Data of sensors in UCSD buildings."
 topics:
   - Dataset
 tags:
+  - San Diego
   - UCSD
   - Buildings
   - Sensor
