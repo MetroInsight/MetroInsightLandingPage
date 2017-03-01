@@ -1,6 +1,6 @@
 baseurl = "https://metroinsight.io/"
 bind = "0.0.0.0"
-title = "Metro Insight"
+title = "MetroInsight"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "My Name"
@@ -16,7 +16,7 @@ tag = "tags"
 
 [Params]
 intro = true
-headline = "Metro Insight"
+headline = "MetroInsight"
 description = "Meting pot for city knowledge"
 github = "https://github.com/metroinsight"
 email = "jbkoh@ucsd.edu"
