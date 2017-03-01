@@ -8,4 +8,5 @@ Make sure you do a recursive clone or initial submodules separately
 Follow instructions to install Hugo here: https://gohugo.io/overview/installing/
 
 The following command will start a local version of the website in port 1313
-hugo server --buildDrafts --themes=ghostwriter
+
+`hugo server --buildDrafts --themes=ghostwriter`
